@@ -1,9 +1,9 @@
 import {FiShoppingCart, FiDribbble, FiLinkedin, FiFacebook, FiInstagram, FiTwitter, FiMail, FiYoutube, FiGithub, FiGitlab, FiHelpCircle, FiBookmark, FiSettings} from '../assets/icons/vander'
-import collection1 from '../assets/images/categories/mens-ware.jpg'
-import collection2 from '../assets/images/categories/ladies-ware.jpg'
-import collection3 from '../assets/images/categories/kids-ware.jpg'
-import collection4 from '../assets/images/categories/smart-watch.jpg'
-import collection5 from '../assets/images/categories/sunglasses.jpg'
+import collection1 from '../assets/images/categories/a-1.jpg'
+import collection2 from '../assets/images/categories/b-3.jpg'
+import collection3 from '../assets/images/categories/c-3.jpg'
+import collection4 from '../assets/images/categories/d-2.jpg'
+import collection5 from '../assets/images/categories/i-2.jpg'
 import collection6 from '../assets/images/categories/chappal-shoes.jpg'
 
 
